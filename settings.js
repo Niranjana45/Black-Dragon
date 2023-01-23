@@ -23,7 +23,7 @@ global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 //bot bomdy 
 global.ownernomer = "94787820101" //ur number
 global.premium = ['94787820101'] //ur premium number
-global.botname = 'Queen shadow' //ur bot name
+global.botname = 'Black dragon' //ur bot name
 global.linkz = "https://chat.whatsapp.com/H8AQw5RVNtl3tabSzttxZd" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
