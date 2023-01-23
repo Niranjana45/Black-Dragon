@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -15,7 +15,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['94787820101'] //ur owner number
-global.ownername = "Black shadow" //ur owner name
+global.ownername = "【Ｂｌａｃｋ　ｓｈａｄｏｗ】" //ur owner name
 global.ytname = "YT: HELA CLOUD" //ur yt chanel name
 global.socialm = "GitHub: nimaofficial" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
@@ -23,14 +23,15 @@ global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 //bot bomdy 
 global.ownernomer = "94787820101" //ur number
 global.premium = ['94787820101'] //ur premium number
-global.botname = 'Black dragon' //ur bot name
+global.botname = '【Ｂｌａｃｋ　ｓｈａｄｏｗ】
+94787820101' //ur bot name
 global.linkz = "https://chat.whatsapp.com/H8AQw5RVNtl3tabSzttxZd" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black shadow" //ur sticker watermark packname
-global.author = "Black shadow"//ur sticker watermark author
-global.wm = "Black shadow" //ur watermark
+global.packname = "©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʙʟᴀᴄᴋ ꜱʜᴀᴅᴏᴡ ®" //ur sticker watermark packname
+global.author = "【Ｂｌａｃｋ　ｓｈａｄｏｗ】"//ur sticker watermark author
+global.wm = "©【Ｂｌａｃｋ　ｓｈａｄｏｗ】" //ur watermark
 
 // Other
 global.sessionName = 'session'
